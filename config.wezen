@@ -7,3 +7,4 @@
 # KEY HAS TO BE THE RELATIVE PATH IN THE GIT REPOSITORY
 
 /docx.docx=/Localizable/values-<code>/<languageCode>/docx.docx
+/docx2.docx=/Localizable/<languageCode>/<code>/docx_<country>.docx
